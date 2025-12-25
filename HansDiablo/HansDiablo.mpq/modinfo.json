@@ -1,11 +1,10 @@
 {
     "name": "HansDiablo",
-    "savepath": "HansDiablo/" 
-
-/*
+    "savepath": "HansDiablo/"
+    /*
 --My Mod Details--
-Mod Download: https://MyModFilesLink.zip
-Mod Config Download: https://MyModInfo.json
+Mod Download: https://github.com/hansrun/HansDiablo/archive/refs/heads/main.zip
+Mod Config Download: https://github.com/hansrun/HansDiablo/raw/refs/heads/main/HansDiablo/HansDiablo.mpq/modinfo.json
 Mod Version: 0.1.0.0
 News 1 Title: "First Edition"
 News 1 Message: "I want LAN support so here we are."
@@ -23,11 +22,5 @@ Item Icons: Enabled
 Runeword Sorting: Enabled
 HUD Display: Enabled
 Monster Stats Display: Enabled
-
---Author Links--
-Discord: https://MyDiscordLink.com
-Wiki: https://MyWikiLink.com
-Patreon: https://MyPatreonLink.com
 */
-
 }
