@@ -1,0 +1,33 @@
+{
+    "name": "HansDiablo",
+    "savepath": "HansDiablo/" 
+
+/*
+--My Mod Details--
+Mod Download: https://MyModFilesLink.zip
+Mod Config Download: https://MyModInfo.json
+Mod Version: 0.1.0.0
+News 1 Title: "First Edition"
+News 1 Message: "I want LAN support so here we are."
+News 2 Title: "More News for the Community!"
+News 2 Message: "This is my own thing that I made for myself. If you enjoy it as well then great."
+
+--General Options--
+Map Layouts: Enabled
+UI Themes: Enabled
+Customizations: Enabled
+Vault Access: Enabled
+
+--Additional Options--
+Item Icons: Enabled
+Runeword Sorting: Enabled
+HUD Display: Enabled
+Monster Stats Display: Enabled
+
+--Author Links--
+Discord: https://MyDiscordLink.com
+Wiki: https://MyWikiLink.com
+Patreon: https://MyPatreonLink.com
+*/
+
+}
